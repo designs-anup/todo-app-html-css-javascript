@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul li{
+  list-style: none;
+  padding: 5px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+}
+
+li span{
+  flex: 1;
+}
